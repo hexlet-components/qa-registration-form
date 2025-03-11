@@ -1,0 +1,5 @@
+*.swo
+*.swp
+.tern-port
+node_modules
+dist
